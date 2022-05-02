@@ -1,0 +1,75 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.header{
+    float: right;
+    
+}
+#test{
+    padding-top:55px;
+    height: 400px;
+    margin-bottom:5%;
+    background-color:;
+    
+    
+}
+#head-nav{
+    padding: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 400;
+}
+#head-p{
+    padding-left: 100px;
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+#head-con{
+    font-size:50px;
+    margin-bottom: 45px;
+    text-transform: uppercase;
+}
+#deci{
+    text-align: center;
+}
+#deci-h{
+    font-size: 40px;
+    text-transform: capitalize;
+    font-weight: 100;
+}
+#deci-p{
+    text-transform: capitalize;
+    font-size:20px;
+    font-weight: 100;
+    margin-bottom: 25px;
+}
+#button{
+    width: 250px;
+    height: 80px;
+    border-radius:10px;
+    font-size: 20px;
+    text-transform: capitalize;
+    background-color: transparent;
+    box-shadow: none;
+    border: 1px solid;
+}
+#main-div{
+    display: flex;
+    margin-bottom: 200px;
+    background-color:;
+    justify-content:space-around;
+}
+#main-div-p{
+
+}
+#div-p{
+      color: silver;
+      font-size: 20px;
+      margin-bottom: 20px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
